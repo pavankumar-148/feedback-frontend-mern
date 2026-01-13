@@ -4,7 +4,7 @@ import AdminLogin from "./components/AdminLogin";
 import RatingChart from "./components/RatingChart";
 
 
-const API = "https://feedback-backend-mern.onrender.com/";
+const API = "https://feedback-backend-mern.onrender.com/api";
 
 function App() {
   // UI
