@@ -4,7 +4,7 @@ import AdminLogin from "./components/AdminLogin";
 import RatingChart from "./components/RatingChart";
 
 
-const API = "http://localhost:5000/api";
+const API = "https://your-backend-name.onrender.com/api";
 
 function App() {
   // UI
